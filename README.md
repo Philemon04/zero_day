@@ -6,5 +6,5 @@ piece of code
 in a block
 ~~~~
 ```
-This too
+This too is
 ```
